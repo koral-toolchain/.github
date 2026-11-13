@@ -30,6 +30,8 @@ A real Counter instruction from the current compiler examples. The Counter runti
 | [koral-solana](https://github.com/koral-toolchain/koral-solana) | Compiler, CLI, examples, and local execution checks. |
 | [handbook](https://github.com/koral-toolchain/handbook) | Development standards, compatibility policy, and release checks. |
 
+[Release policy](https://github.com/koral-toolchain/handbook/blob/main/guides/releases.md) · [Compiler release checklist](https://github.com/koral-toolchain/koral-solana/blob/main/docs/RELEASING.md)
+
 **Current preview:** Counter, restricted unsigned-integer account state, and authority-funded SOL transfers through System Program CPI. General Kotlin support, SPL Token CPI, PDA signing, and complete DEX programs are outside this release.
 
 Source is available to inspect under the repository's [license terms](https://github.com/koral-toolchain/koral-solana/blob/main/LICENSE). Original code rights are reserved; external contributions are currently closed.
